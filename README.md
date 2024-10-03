@@ -3,7 +3,7 @@ When exporting attendance from Canvas, instructors will receive a CSV file, such
 
 ![original file](csv_attendance.png)
 
-where each row is an attendance for a single student, on a single day. This means that by the end of the semester, there will be multiple rows with the same same student, recorded on different days.
+where each row is an attendance for a single student, on a single day. This means that by the end of the semester, there will be multiple rows with the same student, recorded on different days.
 
 ---
 
